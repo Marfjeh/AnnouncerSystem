@@ -1,0 +1,18 @@
+{
+  "name": "omroep",
+  "version": "1.0.0",
+  "description": "Omroep systeem voor ProudInnovations",
+  "main": "kernel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "kernel.js",
+  "author": "Marvin Ferwerda",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "play-sound": "^1.1.3",
+    "say": "^0.15.0"
+  }
+}
